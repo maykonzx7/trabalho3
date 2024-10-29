@@ -1,0 +1,40 @@
+body {
+    background-color: #ddd;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #444;
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.foto-perfil {
+    margin: 0 auto 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: left;
+    color: rgb(140, 76, 8);
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: rgb(140, 76, 8);
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+section {
+    margin-top: 20px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
